@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Processing</name>
+   <tag></tag>
+   <elementGuidId>ea43d1c4-8558-439c-a52d-a2756f46735c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='$b6']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.scstatus.pending > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d782672-5e12-4c44-b1f5-a7a5e9b9de2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Processing</value>
+      <webElementGuid>c2af7aaa-accf-4e8e-ad18-e1b5359e743d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;$b6&quot;)/div[@class=&quot;scstatus pending&quot;]/span[1]</value>
+      <webElementGuid>21bee314-4cde-496a-8882-6fb23a0c10f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='$b6']/div/span</value>
+      <webElementGuid>40fb276b-73eb-4031-8c12-7f01ad370cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(SC2404000860)'])[1]/following::span[1]</value>
+      <webElementGuid>87be0c28-5e74-4cd2-9968-948e9fed27ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[2]/following::span[2]</value>
+      <webElementGuid>bc10ab7e-9e9f-49a4-9616-790a886668e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send for Evaluation'])[1]/preceding::span[1]</value>
+      <webElementGuid>e015fdf8-c10d-42a9-9df1-65834d54e93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send for Approval'])[1]/preceding::span[1]</value>
+      <webElementGuid>b505f198-2ba1-4416-aa6f-e6b5ca95a354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Processing']/parent::*</value>
+      <webElementGuid>f3580bcc-6d2b-4138-92d3-8bbbca57b492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/div/span</value>
+      <webElementGuid>1739fb69-0ab2-4cbf-a012-d141a43a349b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Processing' or . = 'Processing')]</value>
+      <webElementGuid>ea2a0cae-fb19-4727-a77b-dd9dd2a9b5f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

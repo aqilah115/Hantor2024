@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Marketplace</name>
+   <tag></tag>
+   <elementGuidId>a6d06389-103d-4714-9eea-af648d6d6d28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b2-l1-24_1-b1-b1-Content']/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5407bf3e-8319-40f0-aa18-efa64c2fef13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> break-word OSFillParent</value>
+      <webElementGuid>5e455e36-7053-4283-8f23-0b38810dc700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marketplace</value>
+      <webElementGuid>0ae73629-c59c-44f0-842c-e01ac145eb12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b2-l1-24_1-b1-b1-Content&quot;)/div[@class=&quot;SubItemCtn break-word&quot;]/div[@class=&quot;list list-group OSFillParent&quot;]/div[@class=&quot;SubMenuItem break-word margin-bottm-s&quot;]/span[@class=&quot;break-word OSFillParent&quot;]</value>
+      <webElementGuid>145f50c7-8d8b-45e9-b7a4-c4d5e042372b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b2-l1-24_1-b1-b1-Content']/div/div/div[2]/span</value>
+      <webElementGuid>230e0fa1-97af-47fe-ad53-847d72285ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMART'])[1]/following::span[1]</value>
+      <webElementGuid>3e6694af-234f-4952-b5ea-476f6a9524e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Requests'])[1]/following::span[2]</value>
+      <webElementGuid>3ec7a8a4-08d9-4660-bc9e-c7f826235b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sourcing'])[1]/preceding::span[1]</value>
+      <webElementGuid>a04a0f2a-6a73-44be-b6c1-fa6a46604e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ML PR Grouping'])[1]/preceding::span[2]</value>
+      <webElementGuid>3edd3a7e-dbe2-4a1d-bb60-a912e1aeecee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marketplace']/parent::*</value>
+      <webElementGuid>dff83013-4506-4732-a6b8-78448bd3d878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div[2]/span</value>
+      <webElementGuid>d3dccad8-a0d4-4008-9698-9bc45fb0952d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Marketplace' or . = 'Marketplace')]</value>
+      <webElementGuid>a207b425-95ef-460b-9356-f0b0a364d740</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

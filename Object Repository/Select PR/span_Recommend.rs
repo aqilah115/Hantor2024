@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recommend</name>
+   <tag></tag>
+   <elementGuidId>207e1258-60e6-4927-8a1e-849cf255a21f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='l2-112_1-b23-Button']/div[2]/div[2]/button[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#l2-112_1-b23-Button > div.display-flex.justify-content-space-between.OSInline.ThemeGrid_MarginGutter > div.margin-top-m.justify-content-flex-end.padding-bottom-xxl.btn-background.padding-right-l.display-flex > button.btn.Button-design > div.customerSupport-icon > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c56ba238-f9c5-4fbf-ac43-52551cfc3b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recommend</value>
+      <webElementGuid>4afd1da1-8c20-4f7a-a66f-a8f2b01be2b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l2-112_1-b23-Button&quot;)/div[@class=&quot;display-flex justify-content-space-between OSInline ThemeGrid_MarginGutter&quot;]/div[@class=&quot;margin-top-m justify-content-flex-end padding-bottom-xxl btn-background padding-right-l display-flex&quot;]/button[@class=&quot;btn Button-design&quot;]/div[@class=&quot;customerSupport-icon&quot;]/span[1]</value>
+      <webElementGuid>f5ce4e99-a49d-4a17-b076-207070c59751</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='l2-112_1-b23-Button']/div[2]/div[2]/button[2]/div/span</value>
+      <webElementGuid>a6f0e4e4-17f1-4028-a3aa-c8ec94ac5450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shortlisted'])[2]/following::span[1]</value>
+      <webElementGuid>ce020d4f-9313-449b-a142-8d5ae1697652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[2]/following::span[2]</value>
+      <webElementGuid>c9067dbb-1aa4-47ef-9840-54e420279191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEARING,BA,6318,MTRC,RADL CNTCT,6300,DG'])[1]/preceding::span[1]</value>
+      <webElementGuid>cf43d260-f85d-4fdd-8c7d-920515c5e19e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier'])[3]/preceding::span[3]</value>
+      <webElementGuid>f3229f90-d99c-4e1c-9971-182ad6149c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recommend']/parent::*</value>
+      <webElementGuid>35f52652-c682-49f6-8c27-1864379052bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div/span</value>
+      <webElementGuid>601d8dae-51f5-4daa-a9ef-22fcd844e146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Recommend' or . = 'Recommend')]</value>
+      <webElementGuid>d05925cb-b15f-4937-a3f2-e421cd72f837</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

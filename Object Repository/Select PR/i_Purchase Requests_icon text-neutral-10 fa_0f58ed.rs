@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Purchase Requests_icon text-neutral-10 fa_0f58ed</name>
+   <tag></tag>
+   <elementGuidId>85380970-24c3-4619-b334-c5bcb2149a76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b2-SideMenuCtn']/div/div/div/div[2]/div/div[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.text-neutral-10.fa.fa-angle-down.fa-1x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>881551a4-930d-4fc5-b8bc-59188b33b58a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon text-neutral-10 fa fa-angle-down fa-1x</value>
+      <webElementGuid>3f07bd43-4f9d-4142-a7e6-5fac09db6723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b2-SideMenuCtn&quot;)/div[1]/div[@class=&quot;full-height&quot;]/div[@class=&quot;&quot;list list-group&quot; OSFillParent&quot;]/div[2]/div[@class=&quot;SideMenuItem&quot;]/div[@class=&quot;ThemeGrid_Width1 ThemeGrid_MarginGutter&quot;]/a[1]/i[@class=&quot;icon text-neutral-10 fa fa-angle-down fa-1x&quot;]</value>
+      <webElementGuid>5a6cc5b9-42b5-4cb8-8feb-2c5cf7931207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b2-SideMenuCtn']/div/div/div/div[2]/div/div[2]/a/i</value>
+      <webElementGuid>88a9299f-cd5c-42bc-b585-5f3490bcdab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>bae49923-5ed3-4c0d-b7ce-4bb3398c89f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

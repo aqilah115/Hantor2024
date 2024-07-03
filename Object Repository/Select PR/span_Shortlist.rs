@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shortlist</name>
+   <tag></tag>
+   <elementGuidId>d3a3fd51-8470-4960-849c-2b1332150bcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='l2-112_14-b23-Button']/div[2]/div[2]/button/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#l2-112_14-b23-Button > div.display-flex.justify-content-space-between.OSInline.ThemeGrid_MarginGutter > div.margin-top-m.justify-content-flex-end.padding-bottom-xxl.btn-background.padding-right-l.display-flex > button.btn.Button-design > div.customerSupport-icon > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2923ac8-04ce-4a10-aaf6-2d8fa38cf451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shortlist</value>
+      <webElementGuid>162b7d2c-26e9-4af4-9794-688a77961f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l2-112_14-b23-Button&quot;)/div[@class=&quot;display-flex justify-content-space-between OSInline ThemeGrid_MarginGutter&quot;]/div[@class=&quot;margin-top-m justify-content-flex-end padding-bottom-xxl btn-background padding-right-l display-flex&quot;]/button[@class=&quot;btn Button-design&quot;]/div[@class=&quot;customerSupport-icon&quot;]/span[1]</value>
+      <webElementGuid>ee74fb37-8a53-445e-92c1-2bdfe4d7e8f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='l2-112_14-b23-Button']/div[2]/div[2]/button/div/span</value>
+      <webElementGuid>20639145-699c-4e79-9483-1defcd3722b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[7]/following::span[1]</value>
+      <webElementGuid>871b2d7f-63b0-4e9f-99e0-cacd1d9f8967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat Now'])[7]/following::span[1]</value>
+      <webElementGuid>2bc7fa65-874b-4af7-bdf1-6cee436e7320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEARING,BALL,ANNULAR'])[1]/preceding::span[1]</value>
+      <webElementGuid>2e6067c5-e935-4c93-a1b5-3461f68ed579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier'])[8]/preceding::span[3]</value>
+      <webElementGuid>e11aadcb-fdac-4f61-8a13-463c7350067e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div[2]/div/div[2]/div[2]/button/div/span</value>
+      <webElementGuid>f3df617e-1a07-4c5d-ae6a-bc30565ebf44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shortlist' or . = 'Shortlist')]</value>
+      <webElementGuid>5965bcf5-28a7-411b-89ab-b5d0f05f1c58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

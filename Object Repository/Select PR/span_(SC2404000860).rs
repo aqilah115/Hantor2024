@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(SC2404000860)</name>
+   <tag></tag>
+   <elementGuidId>bc2e9c2d-2275-4182-afb7-12890755cc44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-Title']/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.scnumber > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70ce00a4-605d-462f-867e-9f55b2fbb178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(SC2404000860)</value>
+      <webElementGuid>9967ca28-a13b-4609-9536-f9df74ec8de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-Title&quot;)/div[@class=&quot;display-flex justify-content-space-between&quot;]/div[@class=&quot;scnumber-status vertical-align gap-s&quot;]/div[@class=&quot;scnumber&quot;]/span[1]</value>
+      <webElementGuid>f5b85ede-5d76-4e9c-9622-985d1e658fa6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-Title']/div/div/div[2]/span</value>
+      <webElementGuid>e736db4f-7f80-411c-ba1e-f45db77c1acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[2]/following::span[1]</value>
+      <webElementGuid>18098747-aa5e-4b9e-9c96-c852d8e6a8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SC2404000860'])[1]/following::span[1]</value>
+      <webElementGuid>5c2c58aa-63b9-4cfb-899e-379395d1a1e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Shopping Cart'])[1]/preceding::span[1]</value>
+      <webElementGuid>563a41c6-8774-4e4f-9582-6c0e8daa5eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Purchase Request'])[1]/preceding::span[2]</value>
+      <webElementGuid>5d84d145-286c-4dce-ac22-70ff379457b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(SC2404000860)']/parent::*</value>
+      <webElementGuid>d549b888-cbda-461e-822a-d888e982f01c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>22aa5243-209c-4983-b071-5f0a13a34e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '(SC2404000860)' or . = '(SC2404000860)')]</value>
+      <webElementGuid>146998dd-cf0d-48a8-a906-36df974043a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

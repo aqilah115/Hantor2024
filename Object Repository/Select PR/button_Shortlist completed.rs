@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Shortlist completed</name>
+   <tag></tag>
+   <elementGuidId>16d67cdb-7da4-414a-9e78-98d3604d3222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.myprocure-btn-primary-medium.ThemeGrid_MarginGutter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>00dd2a18-453a-4825-b815-6a1be4fd7a15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn myprocure-btn-primary-medium ThemeGrid_MarginGutter</value>
+      <webElementGuid>1ae19ca8-4f0d-44c2-b811-dc98b6686ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b3ff4a76-5d70-4fce-9c4a-6b196af71254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shortlist completed</value>
+      <webElementGuid>97cd8a4a-245f-438f-a908-aeb31302322f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b6-Column2&quot;)/div[@class=&quot;text-align-right&quot;]/div[@class=&quot;ThemeGrid_Width10&quot;]/div[1]/button[@class=&quot;btn myprocure-btn-primary-medium ThemeGrid_MarginGutter&quot;]</value>
+      <webElementGuid>2a4cd72b-de0f-4222-af49-d9d6f896657d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>7d0e6ae9-5632-4a5e-ba80-2ff1f5a42fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b6-Column2']/div/div/div/button</value>
+      <webElementGuid>61a4baa7-56a7-4416-bede-ffe394acd4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of 1 Purchase Request(s)'])[1]/following::button[1]</value>
+      <webElementGuid>d279cf8a-ff1e-4892-80b2-3404cde10920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Request 3000000540-30'])[1]/following::button[1]</value>
+      <webElementGuid>b976a9d9-44d4-478e-baed-68ae2d32c41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send to SMART'])[1]/preceding::button[1]</value>
+      <webElementGuid>b57a3798-ec04-4aba-afa4-1b728464c0b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove from Shopping Cart'])[1]/preceding::button[1]</value>
+      <webElementGuid>52fa4277-9f41-4582-b0a6-b988e27ffd88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shortlist completed']/parent::*</value>
+      <webElementGuid>ae6e9bce-8377-41d4-ba96-10b0b270eb0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>a20f6eeb-0c61-482a-927f-921a689f872e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Shortlist completed' or . = 'Shortlist completed')]</value>
+      <webElementGuid>e6d432e3-2450-4ddc-bfce-7bef19d34404</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

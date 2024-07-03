@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_has completed the evaluation for</name>
+   <tag></tag>
+   <elementGuidId>7ff0d77a-9a89-4d7c-907b-e9e15cd4ba5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b1-b3-b4-l1-26_0-$b3']/div/div[2]/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91a95569-0bf1-4af5-91da-d8a60c6a9813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>has completed the evaluation for</value>
+      <webElementGuid>1323e067-3486-4fd9-94cd-59b6bb0f4b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b1-b3-b4-l1-26_0-$b3&quot;)/div[@class=&quot;sub-menu-notification display-flex flex-direction-column&quot;]/div[2]/div[@class=&quot;OSInline&quot;]/div[1]/span[2]</value>
+      <webElementGuid>de78afb6-3dba-4705-a6fc-41dde8952412</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b1-b3-b4-l1-26_0-$b3']/div/div[2]/div[2]/div/span[2]</value>
+      <webElementGuid>0a47bcd3-9829-4db7-9f0a-478ceeca93dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIZ POPS'])[1]/following::span[1]</value>
+      <webElementGuid>186048b9-8a1c-4281-b614-15b71bce4821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SC2404000857'])[1]/preceding::span[1]</value>
+      <webElementGuid>64032592-c693-41e1-baf4-6c67851be311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today at 04:12 PM'])[1]/preceding::span[2]</value>
+      <webElementGuid>92a1b0cb-a69a-470c-aa69-542e5b8e8ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='has completed the evaluation for']/parent::*</value>
+      <webElementGuid>42f3e010-d788-41d0-b785-edb4fd654191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span[2]</value>
+      <webElementGuid>aa883754-aab4-4ac2-9a9d-efb0f90afca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'has completed the evaluation for' or . = 'has completed the evaluation for')]</value>
+      <webElementGuid>1a8834bc-9336-4dae-adf4-0900423f56ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

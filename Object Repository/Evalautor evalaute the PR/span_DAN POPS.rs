@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DAN POPS</name>
+   <tag></tag>
+   <elementGuidId>399a2665-c65c-48e8-89ca-4e4860614822</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b1-b3-b4-l1-26_0-$b3']/div/div[2]/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.notification-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2c61bb6-9252-474e-8b87-560f774e102f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notification-bold</value>
+      <webElementGuid>fc6d3806-2ebc-4b75-b01d-d96ab4091000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DAN POPS</value>
+      <webElementGuid>9b9d565b-ff32-4d0c-9118-404d6298c634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b1-b3-b4-l1-26_0-$b3&quot;)/div[@class=&quot;sub-menu-notification display-flex flex-direction-column&quot;]/div[2]/div[@class=&quot;OSInline&quot;]/div[1]/span[@class=&quot;notification-bold&quot;]</value>
+      <webElementGuid>64478013-5777-4b02-bb50-0b757d71087f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b1-b3-b4-l1-26_0-$b3']/div/div[2]/div[2]/div/span</value>
+      <webElementGuid>377f1615-5545-4004-8153-69cd0eebd47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='has requested for your evaluation for'])[1]/preceding::span[1]</value>
+      <webElementGuid>b57fe244-661d-4b23-922f-4ea99e0599d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SC2404000857'])[1]/preceding::span[2]</value>
+      <webElementGuid>2e9d366f-cd05-4d11-88fe-fdb0c42da416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DAN POPS']/parent::*</value>
+      <webElementGuid>92551112-5174-4d14-b1e0-9810c52b8bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>f57d8612-d2b7-440b-933d-4647b28c0fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DAN POPS' or . = 'DAN POPS')]</value>
+      <webElementGuid>881852ad-a10d-4a90-9dfd-53f8d3e7b0d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

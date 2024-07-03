@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HomeShopping CartSC2404000857Shopping C_99aabf</name>
+   <tag></tag>
+   <elementGuidId>c4770b84-5aed-43e3-9051-a20b1e7c1b49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-LayoutWrapper']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>243d196e-f816-4e02-bb6c-666bbdcea743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>background-container </value>
+      <webElementGuid>f917ba6e-dc21-4afa-8045-0eb181a2b042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HomeShopping CartSC2404000857Shopping Cart(SC2404000857)ProcessingOverviewMYR 124.00Total Cost EstimateMYR 110.00Total Award ValueMYR 14.00Variance with Cost Estimate (+11 %)1Total Purchase Requests1Total Recommended Suppliers1Total PlantsBuyerDAN POPSEvaluatorLIZ POPSApproverN/AProcessing Time (Days)0 Day0Buyer0Supplier0Evaluator0ApproverProgressEvaluation completed23 Apr 2024, 04:12 PMLIZ POPS (Evaluator)completeEvaluation request sent23 Apr 2024, 03:41 PMDAN POPS (Buyer)PleaseShopping cart processed23 Apr 2024, 03:39 PMNew shopping cart created23 Apr 2024, 03:38 PMSummaryPurchase Request1Purchase Order0Goods Receipt0Payment Request0PR Number - LineSWECPlantMaterial NumberShort DescriptionQuantityCost EstimateTechnical AcceptanceCommercial InsightsDelivery Insights3000000538 - 3016261100PM10250004956BEARING,BA,6205...2MYR 124.001/3023% higher than averageSame as average1 to 1 of 1 itemsPO NumberSupplierPlantLine TotalPO ValuePO Status</value>
+      <webElementGuid>2db4c8c3-51a5-4d3e-93bf-f7792b3a0355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-LayoutWrapper&quot;)/div[@class=&quot;main&quot;]/div[@class=&quot;display-flex background-neutral-0 margin-top-3xl&quot;]/div[@class=&quot;background-container&quot;]</value>
+      <webElementGuid>49fd18e3-0547-465d-ad8c-24fa40a20b64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-LayoutWrapper']/div/div[2]/div[2]</value>
+      <webElementGuid>c5802fed-5383-453f-8e9f-23cb57c0bbe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/following::div[2]</value>
+      <webElementGuid>4f6553f1-35ce-4f29-ba97-491ca4810f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Configuration'])[1]/following::div[9]</value>
+      <webElementGuid>af0f89c5-5e18-45da-9c32-b686bb7a4bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>80043229-58aa-4f05-811e-f4770a4d691c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HomeShopping CartSC2404000857Shopping Cart(SC2404000857)ProcessingOverviewMYR 124.00Total Cost EstimateMYR 110.00Total Award ValueMYR 14.00Variance with Cost Estimate (+11 %)1Total Purchase Requests1Total Recommended Suppliers1Total PlantsBuyerDAN POPSEvaluatorLIZ POPSApproverN/AProcessing Time (Days)0 Day0Buyer0Supplier0Evaluator0ApproverProgressEvaluation completed23 Apr 2024, 04:12 PMLIZ POPS (Evaluator)completeEvaluation request sent23 Apr 2024, 03:41 PMDAN POPS (Buyer)PleaseShopping cart processed23 Apr 2024, 03:39 PMNew shopping cart created23 Apr 2024, 03:38 PMSummaryPurchase Request1Purchase Order0Goods Receipt0Payment Request0PR Number - LineSWECPlantMaterial NumberShort DescriptionQuantityCost EstimateTechnical AcceptanceCommercial InsightsDelivery Insights3000000538 - 3016261100PM10250004956BEARING,BA,6205...2MYR 124.001/3023% higher than averageSame as average1 to 1 of 1 itemsPO NumberSupplierPlantLine TotalPO ValuePO Status' or . = 'HomeShopping CartSC2404000857Shopping Cart(SC2404000857)ProcessingOverviewMYR 124.00Total Cost EstimateMYR 110.00Total Award ValueMYR 14.00Variance with Cost Estimate (+11 %)1Total Purchase Requests1Total Recommended Suppliers1Total PlantsBuyerDAN POPSEvaluatorLIZ POPSApproverN/AProcessing Time (Days)0 Day0Buyer0Supplier0Evaluator0ApproverProgressEvaluation completed23 Apr 2024, 04:12 PMLIZ POPS (Evaluator)completeEvaluation request sent23 Apr 2024, 03:41 PMDAN POPS (Buyer)PleaseShopping cart processed23 Apr 2024, 03:39 PMNew shopping cart created23 Apr 2024, 03:38 PMSummaryPurchase Request1Purchase Order0Goods Receipt0Payment Request0PR Number - LineSWECPlantMaterial NumberShort DescriptionQuantityCost EstimateTechnical AcceptanceCommercial InsightsDelivery Insights3000000538 - 3016261100PM10250004956BEARING,BA,6205...2MYR 124.001/3023% higher than averageSame as average1 to 1 of 1 itemsPO NumberSupplierPlantLine TotalPO ValuePO Status')]</value>
+      <webElementGuid>280391cd-6ed3-4bae-882a-8f3bc30cfd75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

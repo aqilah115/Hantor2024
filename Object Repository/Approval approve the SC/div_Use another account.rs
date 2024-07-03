@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Use another account</name>
+   <tag></tag>
+   <elementGuidId>1d2d3faf-4af1-40dd-a135-d109ca7f2b73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='otherTileText']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#otherTileText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d02032c-e597-47aa-896c-9b03233772ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>otherTileText</value>
+      <webElementGuid>9dd53b13-639a-4c2f-972d-48f38c57dbc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: otherTileText</value>
+      <webElementGuid>0eb09bab-4283-47f9-ad3d-609b9e468422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Use another account</value>
+      <webElementGuid>daa14807-453d-477b-a415-f2e853da4e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;otherTileText&quot;)</value>
+      <webElementGuid>29fab1e8-4ccf-48f8-85c1-07c11b4db59d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='otherTileText']</value>
+      <webElementGuid>61b6c876-4b42-45ac-90f0-f20b8b7a4706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='otherTile']/div/div[2]/div</value>
+      <webElementGuid>c6210d2b-38ab-4356-9a71-02227950e67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connected to Windows'])[1]/following::div[6]</value>
+      <webElementGuid>4144e52e-ef05-443a-b6a6-3cfbfdf93aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sitiaqilah.mohamadh@petronas.com'])[1]/following::div[7]</value>
+      <webElementGuid>88dd1005-1f50-438a-92cf-bb0b219f080a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of use'])[1]/preceding::div[6]</value>
+      <webElementGuid>fec14cfc-660a-40d0-95f7-d20a108320e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy &amp; cookies'])[1]/preceding::div[6]</value>
+      <webElementGuid>26b07268-7a0e-4eeb-9a9d-e8e41b5562ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Use another account']/parent::*</value>
+      <webElementGuid>bfc55ab8-cb3d-4ba1-9053-6d8f5b86d7a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>da95a85f-d9d1-4518-931e-89320bada287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'otherTileText' and (text() = 'Use another account' or . = 'Use another account')]</value>
+      <webElementGuid>fe689bd5-d7a9-41cb-b01a-64b473d1b919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

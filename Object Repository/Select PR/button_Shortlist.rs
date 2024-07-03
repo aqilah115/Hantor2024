@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Shortlist</name>
+   <tag></tag>
+   <elementGuidId>6941f610-8fc1-4837-bf28-7b6e983574f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#l2-112_1-b23-Button > div.display-flex.justify-content-space-between.OSInline.ThemeGrid_MarginGutter > div.margin-top-m.justify-content-flex-end.padding-bottom-xxl.btn-background.padding-right-l.display-flex > button.btn.Button-design</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>56c81662-3014-4bd1-98f2-69b321a67333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn Button-design</value>
+      <webElementGuid>9e909e50-30d6-4d47-9c5b-45ac5329b652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>71443674-c2f6-4ff6-83b5-3f98accb3594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shortlist</value>
+      <webElementGuid>a1cccb41-a74f-4f36-b29d-3a4bde294282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l2-112_1-b23-Button&quot;)/div[@class=&quot;display-flex justify-content-space-between OSInline ThemeGrid_MarginGutter&quot;]/div[@class=&quot;margin-top-m justify-content-flex-end padding-bottom-xxl btn-background padding-right-l display-flex&quot;]/button[@class=&quot;btn Button-design&quot;]</value>
+      <webElementGuid>48e5550c-cad5-42c2-a11d-4f197f63da8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>6bca54cf-adb4-45b9-854d-7f8b50c72140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='l2-112_1-b23-Button']/div[2]/div[2]/button</value>
+      <webElementGuid>92b8e9b8-b14c-4151-a3d1-c4498ac12aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[2]/following::button[1]</value>
+      <webElementGuid>38267132-8e87-4d8e-a175-976353583e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat Now'])[2]/following::button[2]</value>
+      <webElementGuid>d0cfffbc-5e83-4162-b775-5ac8cb4a7a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEARING,BA,6318,MTRC,RADL CNTCT,6300,DG'])[1]/preceding::button[1]</value>
+      <webElementGuid>d16b752b-d350-4e2d-a3d4-0108957367eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[2]/div[2]/button</value>
+      <webElementGuid>8c2c26d4-c7ce-4b49-aedb-495b8b96542c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Shortlist' or . = 'Shortlist')]</value>
+      <webElementGuid>84801021-9b54-49b4-8189-2cb12b9c3c24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

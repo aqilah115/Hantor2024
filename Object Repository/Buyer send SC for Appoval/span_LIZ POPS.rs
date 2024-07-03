@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LIZ POPS</name>
+   <tag></tag>
+   <elementGuidId>1f374238-0961-4276-8a7d-d512c2e5238e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b1-b3-b4-l1-26_0-$b3']/div/div[2]/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.notification-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>61be3098-6cb6-40c6-9cdf-b7de88d50b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notification-bold</value>
+      <webElementGuid>936d115f-de37-4049-b027-3bc9c5e68327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIZ POPS</value>
+      <webElementGuid>984b6c4d-f475-4f36-b57d-5d58ed2bdfb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b1-b3-b4-l1-26_0-$b3&quot;)/div[@class=&quot;sub-menu-notification display-flex flex-direction-column&quot;]/div[2]/div[@class=&quot;OSInline&quot;]/div[1]/span[@class=&quot;notification-bold&quot;]</value>
+      <webElementGuid>3b02e788-1b03-40d2-baf5-2bcc5daa6a63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b1-b3-b4-l1-26_0-$b3']/div/div[2]/div[2]/div/span</value>
+      <webElementGuid>4ca8b2ee-bde9-4205-99aa-1e511d0b176b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='has completed the evaluation for'])[1]/preceding::span[1]</value>
+      <webElementGuid>51ba11ef-6f91-493b-97c2-8e44ec7811ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SC2404000857'])[1]/preceding::span[2]</value>
+      <webElementGuid>ec5c85fb-cade-4123-bcf4-9973df296304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LIZ POPS']/parent::*</value>
+      <webElementGuid>c14c9da6-cac4-44dd-9d45-d99b6ba48c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>2f90eccf-04fb-4333-852d-f93f85661f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'LIZ POPS' or . = 'LIZ POPS')]</value>
+      <webElementGuid>93f160d7-5f49-4d97-ae25-67a5ce39427c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

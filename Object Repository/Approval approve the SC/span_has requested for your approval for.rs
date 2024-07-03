@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_has requested for your approval for</name>
+   <tag></tag>
+   <elementGuidId>79fe6b11-a4fb-4f55-bd1f-0eee3a9ab0ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b1-b3-b4-l1-25_1-$b3']/div/div[2]/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b92f901d-2e8b-43bb-85a5-4da94f4b57b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>has requested for your approval for</value>
+      <webElementGuid>12f7c891-4b1b-4bdf-9a09-626b9070a5a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b1-b3-b4-l1-25_1-$b3&quot;)/div[@class=&quot;sub-menu-notification display-flex flex-direction-column&quot;]/div[2]/div[@class=&quot;OSInline&quot;]/div[1]/span[2]</value>
+      <webElementGuid>d6f9c08e-3327-4652-9efd-fe62a7db42c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b1-b3-b4-l1-25_1-$b3']/div/div[2]/div[2]/div/span[2]</value>
+      <webElementGuid>e7c5d7b7-6845-4324-a65c-469cf6fa7e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAN POPS'])[1]/following::span[1]</value>
+      <webElementGuid>cf25c825-686e-44c4-9359-a2ade87cc639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SC2404000857'])[1]/preceding::span[1]</value>
+      <webElementGuid>fcaa9c1e-472d-412d-836b-f37c23baad6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today at 04:18 PM'])[1]/preceding::span[2]</value>
+      <webElementGuid>94414bd9-af3c-44c7-a600-179d85038e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='has requested for your approval for']/parent::*</value>
+      <webElementGuid>84feaf04-ed9b-4734-9aaf-7e077fe0b897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span[2]</value>
+      <webElementGuid>2fa7e59a-db1d-4bb9-8b6a-44044a7941b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'has requested for your approval for' or . = 'has requested for your approval for')]</value>
+      <webElementGuid>87b065a7-8d33-444f-85f8-65a1f3dbb3b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

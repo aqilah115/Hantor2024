@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Delivery Insights_icon text-light-blue-gr_c57189</name>
+   <tag></tag>
+   <elementGuidId>658a8587-9e30-4f36-89e4-76cfcb266776</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b33-b1-Content']/div/div[2]/div/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.text-light-blue-grays-500.fa.fa-plus.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>51f1f4f8-5012-4643-a794-079df6c5e9dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon text-light-blue-grays-500 fa fa-plus fa-2x</value>
+      <webElementGuid>e41c1684-0efe-41be-840a-f31b1a3008f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b33-b1-Content&quot;)/div[@class=&quot;sc-list-custom-size&quot;]/div[@class=&quot;list list-group OSFillParent&quot;]/div[@class=&quot;table-row&quot;]/div[@class=&quot;display-flex list-item-ellipsis-open&quot;]/div[@class=&quot;list-item-ellipsis-open table-action-container-row padding-s align-items-center display-flex&quot;]/div[1]/i[@class=&quot;icon text-light-blue-grays-500 fa fa-plus fa-2x&quot;]</value>
+      <webElementGuid>2550da2a-d2cf-4562-98d6-1b235b6d15e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b33-b1-Content']/div/div[2]/div/div/div/div/i</value>
+      <webElementGuid>07a4617c-1632-483c-bbe9-7dd5894b61a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/i</value>
+      <webElementGuid>d64d357b-35c3-4589-932f-705a6552f777</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

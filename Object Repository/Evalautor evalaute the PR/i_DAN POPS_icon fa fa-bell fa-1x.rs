@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_DAN POPS_icon fa fa-bell fa-1x</name>
+   <tag></tag>
+   <elementGuidId>5b4b61ff-8ffb-4e30-9e91-46379618b2fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b1-b3-b3-Bell']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-bell.fa-1x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b490fc22-c1c4-4e0a-ad72-325c8befc2cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-bell fa-1x</value>
+      <webElementGuid>3b1c5049-2569-4830-8b6a-7bc97fb047be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b1-b3-b3-Bell&quot;)/i[@class=&quot;icon fa fa-bell fa-1x&quot;]</value>
+      <webElementGuid>ef493d5a-3b41-44de-8730-7437dcafd03b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b1-b3-b3-Bell']/i</value>
+      <webElementGuid>615c3e02-ccc0-48ef-a542-63019216642b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/i</value>
+      <webElementGuid>b65ef8b9-6e25-4ac1-b862-1bbb83747444</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

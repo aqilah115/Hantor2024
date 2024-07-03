@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_BES.POPSstag.petronas.com</name>
+   <tag></tag>
+   <elementGuidId>78382c99-d73d-463a-937f-18d803d671f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tilesHolder']/div/div/div/div/div[2]/div[2]/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>50ef38d5-7a16-4b0d-873c-66ef964eccfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: session.unsafe_displayName</value>
+      <webElementGuid>f911bf7b-bd57-4b58-8f3d-f5925ba0ae89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BES.POPS@stag.petronas.com</value>
+      <webElementGuid>e1ef67b6-f659-4046-80af-271b3736c930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tilesHolder&quot;)/div[@class=&quot;tile-container&quot;]/div[@class=&quot;row tile&quot;]/div[@class=&quot;table&quot;]/div[@class=&quot;table-row&quot;]/div[@class=&quot;table-cell text-left content&quot;]/div[2]/small[1]</value>
+      <webElementGuid>7624aa40-64e8-4d2c-b928-457b61e5db8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tilesHolder']/div/div/div/div/div[2]/div[2]/small</value>
+      <webElementGuid>31a94195-2fa8-4576-bc4a-266303eb6a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BES POPS'])[1]/following::small[1]</value>
+      <webElementGuid>b063c7a4-f569-4c09-900d-1a876b258661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Which account do you want to sign out of?'])[1]/following::small[1]</value>
+      <webElementGuid>b1963918-6cf7-48af-a182-51c0a16444dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signed in'])[1]/preceding::small[1]</value>
+      <webElementGuid>f9fe248d-c1de-4f49-aa43-915920a7d0a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siti Aqilah M Hadzir (EXT/DIGITAL)'])[1]/preceding::small[2]</value>
+      <webElementGuid>7c33418e-d5bf-4ea7-aad8-631587b90026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BES.POPS@stag.petronas.com']/parent::*</value>
+      <webElementGuid>8827f413-1437-4ff8-8613-96b5271db375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>1880e39e-8fa8-496b-b536-3902bb2f291e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'BES.POPS@stag.petronas.com' or . = 'BES.POPS@stag.petronas.com')]</value>
+      <webElementGuid>1f937187-81ad-45bf-8f93-d6499d1a0e7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
